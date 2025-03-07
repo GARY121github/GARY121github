@@ -25,3 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gary121github&show_icons=true&locale=en" alt="gary121github" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gary121github&label=Profile%20views&color=0e75b6&style=flat" alt="gary121github" /> </p>
+
+<a href= "https://cloud.layer5.io/user/e64a0195-5435-45c5-8300-36ac04b87619?tab=badges&badge=first-design" >
+   <img width="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+</a>
