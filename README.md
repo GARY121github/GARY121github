@@ -29,3 +29,6 @@
 <a href= "https://cloud.layer5.io/user/e64a0195-5435-45c5-8300-36ac04b87619?tab=badges&badge=first-design" >
    <img width="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
 </a>
+<a href= "https://cloud.layer5.io/user/e64a0195-5435-45c5-8300-36ac04b87619?tab=badges&badge=code-cleanup-crew" >
+   <img width="224px" src = "https://badges.layer5.io/assets/badges/code-cleanup-crew/code-cleanup-crew.png" alt = "Code Cleanup Crew" />
+</a >
