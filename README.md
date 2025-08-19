@@ -1,34 +1,96 @@
-<h1 align="center">Hi 👋, I'm Harsh Prakash</h1>
-<h3 align="center">Fullstack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Harsh</h1>
+<h3 align="center">🚀 Software Developer | Instructor @ Scaler | GenAI Enthusiast</h3>
 
-- 🔭 I’m currently working on [VidSphere (Bitrate streaming platform)](https://vidsphere-lac.vercel.app)
-
-- 🌱 I’m currently learning **DevOps**
-
-- 📝 I regularly write articles on [HashNode](https://gary121.hashnode.dev)
-
-- 💬 Ask me about **Java, Javascript, Typescript, NodeJS, ReactJS, NextJS**
-
-- 📫 How to reach me **harshprakash000@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harsh_gary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harsh_gary" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-prakash-096b78227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-prakash-096b78227" height="30" width="40" /></a>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&duration=3000&lines=Software+Developer;Instructor+at+Scaler;Exploring+GenAI+%26+Research+Papers;Film+Maker+%7C+Cricket+Lover+%7C+Swimmer;Freelancer+for+Global+Clients" 
+    alt="typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header" width="100%" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gary121github&show_icons=true&locale=en&layout=compact" alt="gary121github" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gary121github&show_icons=true&locale=en" alt="gary121github" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gary121github&label=Profile%20views&color=0e75b6&style=flat" alt="gary121github" /> </p>
+## 👨‍💻 About Me  
 
-<a href= "https://cloud.layer5.io/user/e64a0195-5435-45c5-8300-36ac04b87619?tab=badges&badge=first-design" >
-   <img width="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
-</a>
-<a href= "https://cloud.layer5.io/user/e64a0195-5435-45c5-8300-36ac04b87619?tab=badges&badge=code-cleanup-crew" >
-   <img width="224px" src = "https://badges.layer5.io/assets/badges/code-cleanup-crew/code-cleanup-crew.png" alt = "Code Cleanup Crew" />
-</a >
+- 💼 Software Developer & **Instructor at Scaler (InterviewBit)**  
+- 🤖 Exploring **Generative AI** and reading cutting-edge **research papers**  
+- 🏊 Passionate about **swimming**, 🎬 **filmmaking**, and 🏏 **cricket**  
+- 🌍 Worked with **US & UK clients** as a freelancer  
+- ✨ Always learning, teaching, and contributing to the open-source community  
+
+---
+
+## ⚙️ Tech Stack  
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,js,html,css,figma" />
+</p>
+
+### 🖥️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,nestjs" />
+</p>
+
+### 🗄️ Databases & ORM  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma" />
+</p>
+
+### ☁️ Cloud & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,cloudflare,git,linux" />
+</p>
+
+### 🧠 GenAI & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GARY121github&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=GARY121github&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GARY121github&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GARY121github&theme=onedark&row=1&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gary121"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/HARSH_GARY"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
+  <a href="https://github.com/GARY121github"><img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="https://hashnode.com/@GARY121"><img src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GARY121github/GARY121github/output/snake.svg" alt="snake animation"/>
+</p>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" />
